@@ -17,6 +17,8 @@ In media, programmers are often [portrayed][hackers] [as][matrix]
 fast and can write a prolific amount of code in a single sitting that works
 without errors.
 
+
+
 [hackers]: https://en.wikipedia.org/wiki/Hackers_(film)
 [matrix]: https://en.wikipedia.org/wiki/The_Matrix
 [the social network]: https://en.wikipedia.org/wiki/The_Social_Network
